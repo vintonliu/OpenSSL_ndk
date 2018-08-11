@@ -7,15 +7,13 @@ modified version of setenv-android.sh and build script support all architectures
 
 see details : http://wiki.openssl.org/index.php/Android
 
-Example:
-
+##### How to compile?
 OS: Ubuntu 16.04
 
 NDK: [android-ndk-r13b](https://dl.google.com/android/repository/android-ndk-r13b-linux-x86_64.zip)(Do not use latest version)
 
 OpenSSL: [openssl-1.0.2o](https://www.openssl.org/source/openssl-1.0.2o.tar.gz)
 
-##### How to compile?
 ###### 1. Download NDK and set environment
 Download
 ```

@@ -8,6 +8,7 @@ modified version of setenv-android.sh and build script support all architectures
 see details : http://wiki.openssl.org/index.php/Android
 
 Example:
+
 OS: Ubuntu 16.04
 
 NDK: [android-ndk-r13b](https://dl.google.com/android/repository/android-ndk-r13b-linux-x86_64.zip)(Do not use latest version)
